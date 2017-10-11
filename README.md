@@ -22,7 +22,7 @@ pod 'HIDashLineButton'
 
 ## Author
 
-HIIgor, 693760472@qq.com
+HIIgor, https://github.com/HIIgor
 
 ## License
 
