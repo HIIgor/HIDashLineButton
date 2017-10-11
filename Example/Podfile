@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HIDashLineButton_Example' do
+  pod 'HIDashLineButton', :path => '../'
+
+  target 'HIDashLineButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
