@@ -1,0 +1,16 @@
+PODS:
+  - HIDashLineButton (0.1.0)
+
+DEPENDENCIES:
+  - HIDashLineButton (from `../`)
+
+EXTERNAL SOURCES:
+  HIDashLineButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HIDashLineButton: 92ed09e2089603f589d6dd87a86cc67b0e73b29e
+
+PODFILE CHECKSUM: 3bbbbf240c14914123e980e9b19d7231c2e9975d
+
+COCOAPODS: 1.3.1
