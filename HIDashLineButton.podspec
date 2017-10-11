@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HIDashLineButton'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A functional dashline button '
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
     This is a dashline button which is implemented by adding a sublayer, simply but functional.
                        DESC
 
-  s.homepage         = 'https://github.com/xiangyaguo/HIDashLineButton'
+  s.homepage         = 'https://github.com/HIIgor/HIDashLineButton'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'HIIgor' => 'https://github.com/HIIgor' }
